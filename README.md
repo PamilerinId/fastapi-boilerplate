@@ -1,4 +1,4 @@
-# fastAPI Biolerplate
+# fastAPI Boilerplate
 
 A FastAPI project!
 
